@@ -1,0 +1,30 @@
+/*habilidades*/
+.skills-list {
+    list-style-type: none;
+    padding: 0;
+}
+.skills-list li {
+    font-size: 18px;
+    margin: 5px 0;
+}
+.skills-section {
+    margin-top: 30px;
+}
+
+
+   /* rodapé */
+footer {
+    background-color: #343a40; 
+    color: white;
+    padding: 20px;
+    text-align: center;
+}
+
+
+.project-img {
+    width: 100%;
+    height: auto;
+}
+.project-card {
+    margin-bottom: 20px;
+}
